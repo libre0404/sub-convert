@@ -1300,9 +1300,9 @@ var Cn = xn, wn = {
   dump: Cn
 }, $t = Dr.load, yn = wn.dump;
 const Oe = {
-  BACKEND: "https://url.v1.mk",
+  BACKEND: "https://sub.v1.mk/",
   LOCK_BACKEND: !1,
-  REMOTE_CONFIG: "",
+  REMOTE_CONFIG: "https://raw.githubusercontent.com/libre0404/myclashrule/refs/heads/main/rule_provider_config.yaml",
   CHUNK_COUNT: "20",
   SHORT_SERVER: "https://short.looby.us.kg"
 };
