@@ -1302,7 +1302,7 @@ var Cn = xn, wn = {
 const Oe = {
   BACKEND: "https://sub.v1.mk/",
   LOCK_BACKEND: !1,
-  REMOTE_CONFIG: "https://raw.githubusercontent.com/libre0404/myclashrule/refs/heads/main/rule_provider_config.yaml",
+  REMOTE_CONFIG: "",
   CHUNK_COUNT: "20",
   SHORT_SERVER: "https://short.looby.us.kg"
 };
